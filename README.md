@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there, I'm Mati! 👋
 
-<!--
-**Mplex21/Mplex21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate **Full-Stack Ai Augumented Web Developer** based in Addis Ababa, Ethiopia. I specialize in building fast, secure, and user-centric modern web applications and digital products.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tech Stack
+
+📬 **Frontend & Design** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+⚙️ **Backend & Databases** ![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.dot-js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=61DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+💻 **CMS & Tools** ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mplex21&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mplex21's GitHub Stats" />
+</p>
+
+---
+
+### 🚀 Released Products
+
+1. 🎓 **MatiPlex E-learning Platform** – A modern online learning platform designed to empower the next generation.
+2. 🛒 **Jerusalem Product** – A fully featured e-commerce online store built on WordPress.
+3. 📰 **News MatiPlex** – A digital newspaper platform delivering the latest technology and digital news.
+
+---
+
+### ⏳ In-Progress Platforms
+
+* 💼 **LinkSkills** – A freelancing platform connecting local professionals with clients.
+* 🏫 **Link-School** – A robust school management system to digitalize administration and communication.
+* 🎟️ **GateX** – A user/event registration and admin event management dashboard.
+
+---
+
+### 📬 Get in Touch
+
+* 📧 **Email:** [matiplexhuboft@gmail.com](mailto:matiplexhuboft@gmail.com)
+* ✈️ **Telegram Support:** [@Mati_Digitalbot](https://t.me/Mati_Digitalbot)
