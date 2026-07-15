@@ -27,6 +27,8 @@ I am a passionate **Full-Stack Ai Augumented Web Developer** based in Addis Abab
 1. 🎓 **MatiPlex E-learning Platform** – A modern online learning platform designed to empower the next generation.
 2. 🛒 **Jerusalem Product** – A fully featured e-commerce online store built on WordPress.
 3. 📰 **News MatiPlex** – A digital newspaper platform delivering the latest technology and digital news.
+4. 📅 **Wiloye (ውሎዬ)** – A personal productivity and daily task management web application.
+5. 🤰 **Mommy-Care** – A web application designed to support and keep pregnant mothers safe throughout their journey.
 
 ---
 
